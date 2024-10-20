@@ -1,0 +1,5 @@
+中文描述： 这个Python脚本使用tkinter库创建了一个图形用户界面（GUI）的密码生成器应用程序。程序允许用户输入一个密码长度，然后点击“生成密码”按钮生成一个包含大小写字母、数字和特殊字符的随机密码。用户可以点击“复制密码”按钮将生成的密码复制到剪贴板。此外，还有一个“检查密码强度”按钮，用于评估生成的密码强度，并显示一个信息框告知用户密码的强度等级。
+
+日语描述： このPythonスクリプトは、tkinterライブラリを使用してグラフィカルユーザーインターフェース（GUI）のパスワードジェネレーターアプリケーションを作成しています。アプリケーションは、ユーザーがパスワードの長さを入力することを許可し、「パスワード生成」ボタンをクリックすることで、大文字小文字を含むアルファベット、数字、特殊文字を含むランダムなパスワードを生成します。ユーザーは「パスワードコピー」ボタンをクリックして生成されたパスワードをクリップボードにコピーできます。また、「パスワード強度チェック」ボタンもあり、生成されたパスワードの強度を評価し、パスワードの強度レベルを情報ボックスで通知します。
+
+English Description: This Python script uses the tkinter library to create a graphical user interface (GUI) password generator application. The program allows the user to input a password length and then click the “Generate Password” button to create a random password that includes uppercase and lowercase letters, digits, and special characters. Users can click the “Copy Password” button to copy the generated password to the clipboard. Additionally, there is a “Check Password Strength” button that evaluates the strength of the generated password and displays an info box informing the user of the password’s strength level.
